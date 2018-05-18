@@ -4,5 +4,6 @@ main(){
 int x=5;
 int y=7;
 int z=x+y;
-printf('the sum is:%d',z);
+printf('the result is:%4d',z);
+printf('over');
 }
